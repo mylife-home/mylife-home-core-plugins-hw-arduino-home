@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  Agent : require('./lib/agent'),
-  Rgb   : require('./lib/rgb'),
+  IrcAgent : require('./lib/irc-agent'),
+  IrcRgb   : require('./lib/irc-rgb'),
 };

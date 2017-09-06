@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Mylife Home Core Plugin: HW Arduino Home",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-arduino-home",
+  "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-arduino-home",
   "author": "Vincent Trumpff",
   "dependencies": {
     "log4js": "*",
-    "mylife-home-common": "vincent-tr/mylife-home-common"
+    "mylife-home-common": "mylife-home/mylife-home-common"
   },
   "devDependencies": {
     "chai": "*",

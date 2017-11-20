@@ -6,8 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-arduino-home",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "log4js": "*",
-    "mylife-home-common": "mylife-home/mylife-home-common"
   },
   "devDependencies": {
     "chai": "*",
